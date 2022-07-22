@@ -104,6 +104,7 @@
 [TFSEC](https://github.com/tfsec/tfsec) is a security scanner for your Terraform code.
 
 [Qovery Engine](https://github.com/Qovery/engine) is an open-source abstraction layer library that turns easy apps deployment on AWS, GCP, Azure, and other Cloud providers in just a few minutes. The Qovery Engine is written in Rust and takes advantage of Terraform, Helm, Kubectl, and Docker to manage resources.
+[Spacelift](htttps://spacelift.io) is a sophisticated and compliant infrastructure delivery platform for Terraform, CloudFormation, Pulumi, and Kubernetes. 
 
 # DevOps Tools Integration
 [Back to the Top](https://github.com/mikeroyal/Terraform-Guide#table-of-contents)
